@@ -1,13 +1,22 @@
-Proof of Concept Release
+# Proof of Concept License — `.aix` Persona File
 
-This Turing.aix persona file is released solely for the purpose of demonstrating the concepts disclosed in U.S. Provisional Patent Application No. [Insert Number Upon Filing].
+This `.aix` persona file (e.g., `TuringGPT_Persona_v2.2.aix`) is released solely for the purpose of demonstrating the technical concepts disclosed in U.S. Provisional Patent Application No. [Filing No. REDACTED].
 
-It is intended as a non-commercial proof of concept to illustrate the structure, behavior, and runtime constraints defined by the .aix execution format.
+It is provided as a **non-commercial proof of concept** to illustrate the structure, behavioral scope, and runtime constraints defined by the `.aix` execution format.
 
-Use of this file is permitted for private research, interoperability testing, or technical evaluation only.
+Use of this file is permitted only for:
+- Private research  
+- Interoperability testing  
+- Technical evaluation  
 
-Commercial use, derivative deployment, product integration, or persona execution on production systems is strictly prohibited without prior written authorization and licensing.
+The following are **strictly prohibited without prior written authorization and licensing**:
+- Commercial use or deployment  
+- Derivative persona generation or distribution  
+- Integration into products or public-facing services  
+- Execution on production systems or customer platforms
 
-All intellectual property rights associated with the underlying persona architecture, runtime behavior enforcement, and scoped execution framework are expressly reserved.
+Use within academic institutions is permitted only for non-commercial educational purposes. This license does not authorize indirect commercial use via research contracts, grants, or partnerships with private entities.
 
-©2025 M. Joseph Tomlinson IV. All rights reserved.
+All intellectual property rights associated with the `.aix` file format, scoped persona execution, runtime enforcement architecture, and metadata constraint schema are expressly reserved.
+
+© 2025 M. Joseph Tomlinson IV. All rights reserved.
