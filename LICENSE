@@ -1,0 +1,13 @@
+Proof of Concept Release
+
+This Turing.aix persona file is released solely for the purpose of demonstrating the concepts disclosed in U.S. Provisional Patent Application No. [Insert Number Upon Filing].
+
+It is intended as a non-commercial proof of concept to illustrate the structure, behavior, and runtime constraints defined by the .aix execution format.
+
+Use of this file is permitted for private research, interoperability testing, or technical evaluation only.
+
+Commercial use, derivative deployment, product integration, or persona execution on production systems is strictly prohibited without prior written authorization and licensing.
+
+All intellectual property rights associated with the underlying persona architecture, runtime behavior enforcement, and scoped execution framework are expressly reserved.
+
+©2025 M. Joseph Tomlinson IV. All rights reserved.
