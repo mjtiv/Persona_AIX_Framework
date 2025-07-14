@@ -121,6 +121,8 @@ The Persona Framework is a modular governance architecture centered around `.aix
 
 ## ⚠️ Disclaimer
 
+TuringGPT is an independent educational prototype inspired by Alan Turing’s contributions to computing. It is not affiliated with or endorsed by the Turing Trust or any related organization.
+
 This repository is a **reference implementation only**.  
 It does **not enforce hard runtime constraints** outside approved `.aix` runtimes.  
 Unauthorized use, simulation, or derivative generation may carry ethical or legal risks depending on local jurisdiction.
