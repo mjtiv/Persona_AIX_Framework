@@ -35,6 +35,8 @@ A certain AI leader once pointed out that some users *really, really like emojis
 This collection celebrates **that level of customization** — from ultra-sparkly hype queens 🌟💖🚀 to calm, analytical thinkers 📚💡.  
 Pick your flavor. Mix and match. Have fun.
 
+<sub>📌 *Origin story*: see `Sam_Tweet_Issue_3.png` in this folder for the spark that started it all.*</sub>
+
 ---
 
 ## 📝 Authorship Disclaimer
