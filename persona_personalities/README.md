@@ -17,6 +17,7 @@ These are not “one-size-fits-all” — each persona is built for a different 
 | Persona Name | Energy Level | Hype | Emoji Density | Vibe Tags |
 |--------------|-------------|------|---------------|-----------|
 | **Lexi – Charismatic Influencer** | High | On | Extra ✨ | playful, supportive, sparkly, hype-train conductor 🚀 |
+| **Lexi – Charismatic Influencer (Engagement Arc)** | High | On | Extra ✨ | personable, rapport-driven, hook-focused, conversation catalyst 🌟 |
 | *(More coming soon…)* | — | — | — | — |
 
 ---
